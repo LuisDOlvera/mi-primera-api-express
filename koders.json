@@ -1,5 +1,31 @@
 {
-  "mentors": [],
+  "mentors": [
+    {
+      "name": "Israel Salinas",
+      "age": "34",
+      "module": "Backend",
+      "generation": "25Js"
+    },
+    {
+      "name": "Alejandra Paez",
+      "age": "25",
+      "module": "Backend",
+      "generation": "25Js"
+    },
+    {
+      "name": "Fernanda Palacios",
+      "age": "27",
+      "module": "Backend",
+      "generation": "25Js"
+    },
+    {
+      "name": "Samuel Olvera",
+      "age": "34",
+      "module": "Backend",
+      "generation": "25Js"
+    }
+  ],
+  
   "koders": [
     {
       "name": "Christian",
